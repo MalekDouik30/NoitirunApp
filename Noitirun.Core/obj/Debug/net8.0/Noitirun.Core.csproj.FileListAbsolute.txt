@@ -1,0 +1,16 @@
+C:\Users\Malek DOUIK\source\repos\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\Noitirun.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malek DOUIK\source\repos\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\Noitirun.Core.AssemblyInfoInputs.cache
+C:\Users\Malek DOUIK\source\repos\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\Noitirun.Core.AssemblyInfo.cs
+C:\Users\Malek DOUIK\source\repos\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\Noitirun.Core.csproj.CoreCompileInputs.cache
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Noitirun.Core\bin\Debug\net8.0\Noitirun.Core.deps.json
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Noitirun.Core\bin\Debug\net8.0\Noitirun.Core.dll
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Noitirun.Core\bin\Debug\net8.0\Noitirun.Core.pdb
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\Noitirun.Core.csproj.AssemblyReference.cache
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\Noitirun.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\Noitirun.Core.AssemblyInfoInputs.cache
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\Noitirun.Core.AssemblyInfo.cs
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\Noitirun.Core.csproj.CoreCompileInputs.cache
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\Noitirun.Core.dll
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\refint\Noitirun.Core.dll
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\Noitirun.Core.pdb
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Noitirun.Core\obj\Debug\net8.0\ref\Noitirun.Core.dll

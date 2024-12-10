@@ -1,0 +1,11 @@
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Commun.Application.seedWork\bin\Debug\net8.0\Commun.Application.seedWork.deps.json
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Commun.Application.seedWork\bin\Debug\net8.0\Commun.Application.seedWork.dll
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Commun.Application.seedWork\bin\Debug\net8.0\Commun.Application.seedWork.pdb
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Commun.Application.seedWork\obj\Debug\net8.0\Commun.Application.seedWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Commun.Application.seedWork\obj\Debug\net8.0\Commun.Application.seedWork.AssemblyInfoInputs.cache
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Commun.Application.seedWork\obj\Debug\net8.0\Commun.Application.seedWork.AssemblyInfo.cs
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Commun.Application.seedWork\obj\Debug\net8.0\Commun.Application.seedWork.csproj.CoreCompileInputs.cache
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Commun.Application.seedWork\obj\Debug\net8.0\Commun.Application.seedWork.dll
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Commun.Application.seedWork\obj\Debug\net8.0\refint\Commun.Application.seedWork.dll
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Commun.Application.seedWork\obj\Debug\net8.0\Commun.Application.seedWork.pdb
+C:\Users\Malek DOUIK\Documents\Projects\NoitirunApp\Commun.Application.seedWork\obj\Debug\net8.0\ref\Commun.Application.seedWork.dll

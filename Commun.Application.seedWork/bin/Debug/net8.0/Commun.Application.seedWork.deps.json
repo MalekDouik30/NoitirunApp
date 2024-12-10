@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Commun.Application.seedWork/1.0.0": {
+        "runtime": {
+          "Commun.Application.seedWork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Commun.Application.seedWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
